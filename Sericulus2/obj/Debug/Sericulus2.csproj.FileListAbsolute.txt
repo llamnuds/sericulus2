@@ -1,0 +1,16 @@
+C:\Users\Shaun\Documents\Visual Studio 2017\Projects\Sericulus2\Sericulus2\bin\Debug\Sericulus2.exe
+C:\Users\Shaun\Documents\Visual Studio 2017\Projects\Sericulus2\Sericulus2\bin\Debug\Sericulus2.pdb
+C:\Users\Shaun\Documents\Visual Studio 2017\Projects\Sericulus2\Sericulus2\obj\Debug\Sericulus2.Form1.resources
+C:\Users\Shaun\Documents\Visual Studio 2017\Projects\Sericulus2\Sericulus2\obj\Debug\Sericulus2.Properties.Resources.resources
+C:\Users\Shaun\Documents\Visual Studio 2017\Projects\Sericulus2\Sericulus2\obj\Debug\Sericulus2.csproj.GenerateResource.Cache
+C:\Users\Shaun\Documents\Visual Studio 2017\Projects\Sericulus2\Sericulus2\obj\Debug\Sericulus2.exe
+C:\Users\Shaun\Documents\Visual Studio 2017\Projects\Sericulus2\Sericulus2\obj\Debug\Sericulus2.pdb
+C:\Users\Shaun\Documents\Visual Studio 2017\Projects\Sericulus2\Sericulus2\obj\Debug\Sericulus2.csprojResolveAssemblyReference.cache
+C:\Users\shaun.dunmall.adm\Documents\Visual Studio 2017\Projects\Sericulus2\Sericulus2\bin\Debug\Sericulus2.exe
+C:\Users\shaun.dunmall.adm\Documents\Visual Studio 2017\Projects\Sericulus2\Sericulus2\bin\Debug\Sericulus2.pdb
+C:\Users\shaun.dunmall.adm\Documents\Visual Studio 2017\Projects\Sericulus2\Sericulus2\obj\Debug\Sericulus2.csprojResolveAssemblyReference.cache
+C:\Users\shaun.dunmall.adm\Documents\Visual Studio 2017\Projects\Sericulus2\Sericulus2\obj\Debug\Sericulus2.Form1.resources
+C:\Users\shaun.dunmall.adm\Documents\Visual Studio 2017\Projects\Sericulus2\Sericulus2\obj\Debug\Sericulus2.Properties.Resources.resources
+C:\Users\shaun.dunmall.adm\Documents\Visual Studio 2017\Projects\Sericulus2\Sericulus2\obj\Debug\Sericulus2.csproj.GenerateResource.Cache
+C:\Users\shaun.dunmall.adm\Documents\Visual Studio 2017\Projects\Sericulus2\Sericulus2\obj\Debug\Sericulus2.exe
+C:\Users\shaun.dunmall.adm\Documents\Visual Studio 2017\Projects\Sericulus2\Sericulus2\obj\Debug\Sericulus2.pdb
